@@ -20,4 +20,5 @@ Topics covered include the following:
 - Complexity notations
 - Recursion 
 
-Let's get started 
+####Let's get started!!!
+![](http://ak-hdl.buzzfed.com/static/2015-03/28/19/enhanced/webdr07/anigif_enhanced-buzz-15745-1427585600-6.gif)
