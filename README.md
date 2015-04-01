@@ -9,7 +9,7 @@ Topics covered include the following:
 - Linked Lists
 - Doubly Linked Lists
 - Vectors
-- Arrays 
+- Arrays & HashTables
 
 ###Algorithmns
 - Trees
