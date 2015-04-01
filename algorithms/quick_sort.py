@@ -37,3 +37,19 @@ class QuickSort:
 quick_sort = QuickSort([2,4,5,3,34,88,99,5,10])
 quick_sort.sort_values()
 
+
+class PrintAscii:
+    def __init__(self, some_list):
+        self.list = some_list
+
+    def print_ascii(self):
+        if len(self.list) == 0:
+            return
+        else:
+            chr(self.list[0]+1)
+            self.list = (self.list[1:])
+            self.print_ascii()
+
+
+print PrintAscii([1,2,3,4]).print_ascii()
+
