@@ -4,10 +4,10 @@ Python refresh dojo to practice efficient data manipulation using various data s
 Topics covered include the following:
 
 ###Data structures
-- Stacks
-- Queues
-- Linked Lists
-- Doubly Linked Lists
-- Vectors
-- Algorithmns (BFS, DFS)
-- Arrays & HashTables
+- [ ] Stacks
+- [ ] Queues
+- [ ] Linked Lists
+- [ ] Doubly Linked Lists
+- [ ] Vectors
+- [ ] Algorithmns (BFS, DFS)
+- [ ] Arrays & HashTables
