@@ -6,7 +6,11 @@ Topics covered include the following:
 ###Data structures
 - Stacks
 - Queues
-- Linked Lists
-- Doubly Linked Lists
+- Lists
+  - Linked Lists
+  - Doubly Linked Lists
 - Vectors
+- Algorithmns 
+  - BFS 
+  - DFS
 - Arrays & HashTables
