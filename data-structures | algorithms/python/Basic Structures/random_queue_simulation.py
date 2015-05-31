@@ -27,7 +27,7 @@ class RandomQueue:
         if self.queue:
             return random.randint(0, (self.queue.size() - 1))
 
-names_list = ['Person 1', 'Person 2', 'Person 3','Person 4']
+names_list = ['RZA', 'GZA', 'ODB','BK']
 random_queue = RandomQueue(names_list)
 
 while len(random_queue.queue.items) > 1:
